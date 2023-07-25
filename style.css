@@ -1,0 +1,31 @@
+.icons-der.collapse.navbar-collapse{
+    justify-content: right;
+}
+
+.suave{
+    color: gray;
+}
+.titulo-auto{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-top: 4px;
+}
+.Messi{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-top: 4px;  
+}
+.auto-final{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-top: 4px;
+}
+.card-title{
+    font-size: small;
+}
+.card-text{
+    font-size: smaller;
+}
